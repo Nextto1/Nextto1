@@ -2,7 +2,7 @@
 - 👀 I’m interested in software engineering
 - 🌱 I’m currently learning programming languages
 - 💞️ I’m looking to collaborate on programming languages
-- 📫 How to reach me;through mail or WhatsApp
+- 📫 How to reach me;through mail or WhatsApp:rnstkr@gmail.com
 
 <!---
 Nextto1/Nextto1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
