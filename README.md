@@ -43,50 +43,26 @@
 
 ### 🚀 Featured Projects
 
-<table>
-  <thead>
-    <tr>
-      <th>Project Name</th>
-      <th>Description</th>
-      <th>Tech Stack</th>
-      <th>GitHub Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><a href="https://github.com/Nextto1/simple-weather-api-wrapper">Simple Weather API Wrapper</a></td>
-      <td>A simple weather application fetching real-time weather data using APIs.</td>
-      <td>Node.js, API Integration, Express.js</td>
-      <td><a href="https://github.com/Nextto1/simple-weather-api-wrapper">Repo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Nextto1/my-portfolio">My Portfolio</a></td>
-      <td>A personal portfolio website showcasing my projects and skills.</td>
-      <td>HTML, CSS, JavaScript</td>
-      <td><a href="https://github.com/Nextto1/my-portfolio">Repo</a></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/Nextto1/task-manager">API-based Task Manager</a></td>
-      <td>A task manager app integrating multiple APIs for enhanced productivity.</td>
-      <td>Node.js, MongoDB, API Integration</td>
-      <td><a href="https://github.com/Nextto1/task-manager">Repo</a></td>
-    </tr>
-  </tbody>
-</table>
+**1. [Simple Weather API Wrapper](https://github.com/Nextto1/simple-weather-api-wrapper)**  
+   - **Description**: A simple weather application fetching real-time weather data using APIs.
+   - **Tech Stack**: Node.js, API Integration, Express.js
+   - **GitHub Link**: [Repo](https://github.com/Nextto1/simple-weather-api-wrapper)
+
+**2. [My Portfolio](https://github.com/Nextto1/my-portfolio)**  
+   - **Description**: A personal portfolio website showcasing my projects and skills.
+   - **Tech Stack**: HTML, CSS, JavaScript
+   - **GitHub Link**: [Repo](https://github.com/Nextto1/my-portfolio)
+
+**3. [API-based Task Manager](https://github.com/Nextto1/task-manager)**  
+   - **Description**: A task manager app integrating multiple APIs for enhanced productivity.
+   - **Tech Stack**: Node.js, MongoDB, API Integration
+   - **GitHub Link**: [Repo](https://github.com/Nextto1/task-manager)
 
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nextto1&show_icons=true&theme=radical" alt="Ernest's GitHub stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nextto1&theme=radical" alt="GitHub Streak Stats"> </p>
 <!-- Get in Touch Section -->
 📫 Get in Touch
-💼 LinkedIn
-📧 Email: ernestkyere@example.com
+💼 LinkedIn : linkedin.com/in/ernest-kyere-85117214b
+📧 Email: rnstkr@gmail.com
 🌍 Personal Website: [Coming Soon]
-
-Explanation:
-Header Image: Include a captivating image that represents you or your professional journey.
-Intro: Starts with a friendly introduction, followed by your title and a brief description of your expertise.
-Tech Stack: Visually appealing badges showcasing your key technologies.
-Featured Projects: Highlights your best work with clickable links to GitHub repos.
-GitHub Stats: Displays your stats and streaks using GitHub-readme-stats.
-Contact: Allows potential recruiters or collaborators to easily get in touch with you.
