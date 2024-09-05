@@ -43,21 +43,11 @@
 
 ### 🚀 Featured Projects
 
-**1. [Simple Weather API Wrapper](https://github.com/Nextto1/simple-weather-api-wrapper)**  
-   - **Description**: A simple weather application fetching real-time weather data using APIs.
-   - **Tech Stack**: Node.js, API Integration, Express.js
-   - **GitHub Link**: [Repo](https://github.com/Nextto1/simple-weather-api-wrapper)
-
-**2. [My Portfolio](https://github.com/Nextto1/my-portfolio)**  
-   - **Description**: A personal portfolio website showcasing my projects and skills.
-   - **Tech Stack**: HTML, CSS, JavaScript
-   - **GitHub Link**: [Repo](https://github.com/Nextto1/my-portfolio)
-
-**3. [API-based Task Manager](https://github.com/Nextto1/task-manager)**  
-   - **Description**: A task manager app integrating multiple APIs for enhanced productivity.
-   - **Tech Stack**: Node.js, MongoDB, API Integration
-   - **GitHub Link**: [Repo](https://github.com/Nextto1/task-manager)
-
+| Project Name | Description | Tech Stack | GitHub Link |
+|--------------|-------------|------------|-------------|
+| [Simple Weather API Wrapper](https://github.com/Nextto1/simple-weather-api-wrapper) | A simple weather application fetching real-time weather data using APIs. | Node.js, API Integration, Express.js | [Repo](https://github.com/Nextto1/simple-weather-api-wrapper) |
+| [My Portfolio](https://github.com/Nextto1/my-portfolio) | A personal portfolio website showcasing my projects and skills. | HTML, CSS, JavaScript | [Repo](https://github.com/Nextto1/my-portfolio) |
+| [API-based Task Manager](https://github.com/Nextto1/task-manager) | A task manager app integrating multiple APIs for enhanced productivity. | Node.js, MongoDB, API Integration | [Repo](https://github.com/Nextto1/task-manager) |
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nextto1&show_icons=true&theme=radical" alt="Ernest's GitHub stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nextto1&theme=radical" alt="GitHub Streak Stats"> </p>
