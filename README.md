@@ -43,11 +43,36 @@
 
 ### 🚀 Featured Projects
 
-| Project Name | Description | Tech Stack | GitHub Link |
-|--------------|-------------|------------|-------------|
-| [Simple Weather API Wrapper](https://github.com/Nextto1/simple-weather-api-wrapper) | A simple weather application fetching real-time weather data using APIs. | Node.js, API Integration, Express.js | [Repo](https://github.com/Nextto1/simple-weather-api-wrapper) |
-| [My Portfolio](https://github.com/Nextto1/my-portfolio) | A personal portfolio website showcasing my projects and skills. | HTML, CSS, JavaScript | [Repo](https://github.com/Nextto1/my-portfolio) |
-| [API-based Task Manager](https://github.com/Nextto1/task-manager) | A task manager app integrating multiple APIs for enhanced productivity. | Node.js, MongoDB, API Integration | [Repo](https://github.com/Nextto1/task-manager) |
+<table>
+  <thead>
+    <tr>
+      <th>Project Name</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+      <th>GitHub Link</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td><a href="https://github.com/Nextto1/simple-weather-api-wrapper">Simple Weather API Wrapper</a></td>
+      <td>A simple weather application fetching real-time weather data using APIs.</td>
+      <td>Node.js, API Integration, Express.js</td>
+      <td><a href="https://github.com/Nextto1/simple-weather-api-wrapper">Repo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Nextto1/my-portfolio">My Portfolio</a></td>
+      <td>A personal portfolio website showcasing my projects and skills.</td>
+      <td>HTML, CSS, JavaScript</td>
+      <td><a href="https://github.com/Nextto1/my-portfolio">Repo</a></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/Nextto1/task-manager">API-based Task Manager</a></td>
+      <td>A task manager app integrating multiple APIs for enhanced productivity.</td>
+      <td>Node.js, MongoDB, API Integration</td>
+      <td><a href="https://github.com/Nextto1/task-manager">Repo</a></td>
+    </tr>
+  </tbody>
+</table>
 
 📊 GitHub Stats
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Nextto1&show_icons=true&theme=radical" alt="Ernest's GitHub stats"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nextto1&theme=radical" alt="GitHub Streak Stats"> </p>
