@@ -5,7 +5,7 @@
 
 <!-- Name & Introduction -->
 <h1 align="center">Hi there, I'm Ernest Kyere 👋</h1>
-<h3 align="center">A Passionate Backend Developer | API Integration Enthusiast | Node.js Specialist</h3>
+<h3 align="center">A Passionate Backend Developer | JavaScript and API Integration Enthusiast | Node.js Specialist</h3>
 
 <p align="center">
   <a href="https://github.com/Nextto1">
@@ -19,7 +19,7 @@
 <!-- About Me -->
 ### About Me
 - 🔧 **Backend Developer** with a passion for building scalable and efficient systems.
-- 💡 Proficient in **Node.js** and **API Integration**, working with RESTful services to build robust solutions.
+- 💡 Proficient in **JavaScript**, **Node.js** and **API Integration**, working with RESTful services to build robust solutions.
 - 🛠️ Experienced in debugging and solving real-world problems through clean, maintainable code.
 - 🎓 Graduating from the **ALX Software Engineering Program**, where my journey in software development started.
 - 🌱 Continuously learning, exploring new technologies, and challenging myself to grow as a developer.
