@@ -1,10 +1,10 @@
 <!-- GitHub Profile Header Image -->
 <p align="center">
-  <img src="https://your-header-image-link.com" alt="Ernest Kyere - Software Engineer" width="100%">
-</p>
+ <!-- <img src="https://your-header-image-link.com" alt="Ernest Kyere - Software Engineer" width="100%">
+</p> -->
 
 <!-- Name & Introduction -->
-<h1 align="center">Hi there, I'm Ernest Kyere 👋</h1>
+<!--<h1 align="center">Hi there, I'm Ernest Kyere 👋</h1> -->
 <h3 align="center">A Passionate Backend Developer | JavaScript and API Integration Enthusiast | Node.js Specialist</h3>
 
 <p align="center">
